@@ -1,10 +1,10 @@
 This repository is dedicated to the first week of the Cybersecurity Specialist course at Epicode. 🛡️
 
-📌 Overview
+# 📌 Overview
 
 This repository will serve as a central hub for materials, exercises, and notes related to the first week of the course.
 
-📂 Contents
+# 📂 Contents
 
 Course-related documentation
 
