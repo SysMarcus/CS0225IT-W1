@@ -1,16 +1,15 @@
-🛡️ Cybersecurity Specialist - Epicode CS0225IT
+This repository is dedicated to the first week of the Cybersecurity Specialist course at Epicode. 🛡️
 
-Questa repository raccoglie materiali, appunti ed esercizi del corso Cybersecurity Specialist (CS0225IT) di Epicode.
+📌 Overview
 
-🔹 Contenuti principali:
+This repository will serve as a central hub for materials, exercises, and notes related to the first week of the course.
 
-Appunti e risorse sulle tematiche trattate nel corso
+📂 Contents
 
-Esercizi pratici e laboratori su strumenti di cybersecurity
+Course-related documentation
 
-Script e automazioni per test e analisi di sicurezza
+Practical exercises and resources
 
-📌 Obiettivo: Documentare il percorso di apprendimento e raccogliere risorse utili per approfondire il mondo della cybersecurity.
+Key takeaways from the first week
 
-🚀 Work in progress! La repository verrà aggiornata con nuovi contenuti durante il corso.
-
+Stay tuned for updates as the week progresses! 🚀
