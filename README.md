@@ -1,3 +1,4 @@
+# Cybersecurity Specialist Course - Week 1
 This repository is dedicated to the first week of the Cybersecurity Specialist course at Epicode. 🛡️
 
 # 📌 Overview
